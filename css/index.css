@@ -1,0 +1,19 @@
+
+
+
+
+
+
+
+
+
+
+
+
+/********** .head-wrapper **********/
+.head-wrapper {background-color: black; color: #f9f9f9; }
+.head-wrapper .head-wrap {display: flex; justify-content: space-between; padding: 1em; cursor: pointer;}
+.head-wrapper .head-wrap .navi-wrapper {display: flex;}
+.head-wrapper .head-wrap .navi-wrapper .dub-navi {}
+.head-wrapper .head-wrap .bt-search {}
+/********** .head-wrapper **********/
